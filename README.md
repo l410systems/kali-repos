@@ -26,7 +26,7 @@ Kali-Repos surgio de la necesidad de cambiar repositorios de cualquier version d
 
 # Instalacion:
 
-git clone https://github.com/John-W1ck/kali-repos.git
+git clone https://github.com/l410systems/kali-repos.git
 
 cd  kali-repos
 
